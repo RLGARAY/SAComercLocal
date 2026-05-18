@@ -2,7 +2,16 @@
 
 ## Sprint 1 — Planificació i disseny
 - **Durada:** 2 setmanes
+- **Objectiu del Sprint**
+  Durant aquest Sprint l’alumnat haurà de comprendre el funcionament general del projecte i començar a definir la futura web del comerç local. El professorat proporcionarà el backlog inicial i les tasques principals del Sprint, guiant el procés de treball i l’organització dels equips. L’alumnat participarà en el disseny visual i estructural de la web, elaborant les primeres propostes d’interfície i navegació.
 
+- Comprendre el funcionament de les aplicacions web en entorn client i servidor.
+- Configurar l’entorn de desenvolupament amb React i JavaScript.
+- Analitzar exemples de webs comercials i identificar bones pràctiques de disseny i usabilitat.
+- Definir l’estructura inicial de la web i les seues seccions principals.
+- Elaborar prototips o esbossos de la interfície.
+- Familiaritzar-se amb la metodologia Agile i la dinàmica de treball per Sprints.
+  
 - **RA treballats:**
   - RA1
   - RA2
@@ -28,10 +37,30 @@
   - Utilització d'objectes. Objectes natius del llenguatge
   - Interacció amb el navegador. Objectes predefinits associats
 
+- **Tasques:**
+  - Crear trello
+  - Asignar roles
+  - Analizar competencia
+  - Esquema de la estructura inicial de la web
+  - Wireframe: home, comercio, navegacion etc..
+  - Instalacion herramientas
+  - Repositorio git
+  - Crear proyecto base React
+  - Prueba de ejecución
+  
 ---
 
 ## Sprint 2 — Estructura i maquetació
 - **Durada:** 3 setmanes
+- **Objectiu del Sprint**
+En aquest Sprint l’alumnat desenvoluparà l’estructura base de la web del comerç local a partir de les directrius i funcionalitats definides pel professorat. Es construirà una primera versió navegable de la plataforma utilitzant React, treballant especialment la maquetació i l’organització dels components visuals.
+
+- Crear l’estructura base del projecte en React.
+- Desenvolupar la maquetació principal de la web.
+- Implementar components reutilitzables.
+- Crear el sistema de navegació entre pàgines o seccions.
+- Aplicar disseny responsive per adaptar la web a diferents dispositius.
+- Separar correctament contingut, estil i comportament.
 
 - **RA treballats:**
   - RA1
@@ -54,6 +83,15 @@
 
 ## Sprint 3 — Lògica JavaScript
 - **Durada:** 7 setmanes
+- **Objectiu del Sprint**
+L’objectiu principal d’aquest Sprint serà implementar la lògica funcional de la web. L’alumnat començarà a gestionar la informació dels comerços de manera dinàmica mitjançant JavaScript i React, desenvolupant funcionalitats que permeten mostrar, organitzar i manipular les dades de l’aplicació.
+
+- Utilitzar variables, operadors i estructures de control.
+- Gestionar informació mitjançant arrays i objectes.
+- Crear funcions reutilitzables per al tractament de dades.
+- Implementar components dinàmics amb React.
+- Desenvolupar funcionalitats de filtrat, classificació o cerca de comerços.
+- Documentar i depurar el codi desenvolupat.
 
 - **RA treballats:**
   - RA2
@@ -101,6 +139,15 @@
 
 ## Sprint 4 — Interactivitat i DOM
 - **Durada:** 6 setmanes
+- **Objectiu del Sprint**
+Durant aquest Sprint la web evolucionarà cap a una aplicació més interactiva i funcional. L’alumnat implementarà formularis, esdeveniments i modificacions dinàmiques de contingut per millorar la interacció amb les persones usuàries i enriquir l’experiència d’ús de la plataforma.
+
+- Gestionar esdeveniments i interaccions amb l’usuari.
+- Crear i validar formularis web.
+- Modificar contingut i estructura de la pàgina de manera dinàmica.
+- Implementar mecanismes d’emmagatzematge local al navegador.
+- Millorar la usabilitat i l’experiència d’usuari.
+- Provar i documentar les funcionalitats interactives desenvolupades.
 
 - **RA treballats:**
   - RA3
@@ -149,6 +196,15 @@
 
 ## Sprint 5 — Comunicació asíncrona
 - **Durada:** 4 setmanes
+- **Objectiu del Sprint**
+En aquest últim Sprint l’alumnat incorporarà funcionalitats avançades relacionades amb la comunicació asíncrona i finalitzarà el desenvolupament del projecte. La web haurà d’estar completament funcional, documentada i preparada per a la seua presentació final.
+
+- Implementar comunicació asíncrona entre client i servidor.
+- Consumir i gestionar dades en format JSON.
+- Actualitzar contingut de manera dinàmica sense recarregar la pàgina.
+- Integrar llibreries i eines pròpies d’aplicacions web modernes.
+- Realitzar proves i correccions finals del projecte.
+- Preparar la documentació i la presentació final de la web del comerç local.
 
 - **RA treballats:**
   - RA7
@@ -175,6 +231,7 @@
   - Prova i documentació del codi
   - Comentaris al codi
   - Depuració i documentació del codi
+
 
 ---
 
