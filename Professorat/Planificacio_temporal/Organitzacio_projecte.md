@@ -2,7 +2,7 @@
 
 ## Sprint 1 — Planificació i disseny
 - **Durada:** 2 setmanes
-- **Objectiu del Sprint**
+- **Objectiu del Sprint:**
   Durant aquest Sprint l’alumnat haurà de comprendre el funcionament general del projecte i començar a definir la futura web del comerç local. El professorat proporcionarà el backlog inicial i les tasques principals del Sprint, guiant el procés de treball i l’organització dels equips. L’alumnat participarà en el disseny visual i estructural de la web, elaborant les primeres propostes d’interfície i navegació.
 
   - Comprendre el funcionament de les aplicacions web en entorn client i servidor.
@@ -52,7 +52,7 @@
 
 ## Sprint 2 — Estructura i maquetació
 - **Durada:** 3 setmanes
-- **Objectiu del Sprint**
+- **Objectiu del Sprint:**
 En aquest Sprint l’alumnat desenvoluparà l’estructura base de la web del comerç local a partir de les directrius i funcionalitats definides pel professorat. Es construirà una primera versió navegable de la plataforma utilitzant React, treballant especialment la maquetació i l’organització dels components visuals.
 
   - Crear l’estructura base del projecte en React.
@@ -79,11 +79,17 @@ En aquest Sprint l’alumnat desenvoluparà l’estructura base de la web del co
   - Comentaris al codi
   - Independència de les capes d'implementació d'aplicacions web
 
+- **Tasques:**
+  - Estructura de carpetas del proyecto
+  - Maquetar en HTML: Home, comercio...
+  - Sistema de rutas
+  - Vincular las vistas
+  - Busqueda de componentes React
 ---
 
 ## Sprint 3 — Lògica JavaScript
 - **Durada:** 7 setmanes
-- **Objectiu del Sprint**
+- **Objectiu del Sprint:**
 L’objectiu principal d’aquest Sprint serà implementar la lògica funcional de la web. L’alumnat començarà a gestionar la informació dels comerços de manera dinàmica mitjançant JavaScript i React, desenvolupant funcionalitats que permeten mostrar, organitzar i manipular les dades de l’aplicació.
 
   - Utilitzar variables, operadors i estructures de control.
@@ -135,11 +141,24 @@ L’objectiu principal d’aquest Sprint serà implementar la lògica funcional 
   - Patrons de disseny
   - Depuració i documentació del codi
 
+- **Tasques:**
+  - Estructura de datos
+  - Catalogo de muestra
+  - variables de estado
+  - Modificar componentes html a react
+  - implementacion de la logica: funciones, subcampos
+  - Listado del Home
+  - Renderizado de ficha individual
+  - Buscador
+  - Filtros de categorias
+  - clasificacion y ordenacion del catalogo
+  - patrones de diseño
+  - depuracion y busqueda de errores
 ---
 
 ## Sprint 4 — Interactivitat i DOM
 - **Durada:** 6 setmanes
-- **Objectiu del Sprint**
+- **Objectiu del Sprint:**
 Durant aquest Sprint la web evolucionarà cap a una aplicació més interactiva i funcional. L’alumnat implementarà formularis, esdeveniments i modificacions dinàmiques de contingut per millorar la interacció amb les persones usuàries i enriquir l’experiència d’ús de la plataforma.
 
   - Gestionar esdeveniments i interaccions amb l’usuari.
@@ -191,12 +210,25 @@ Durant aquest Sprint la web evolucionarà cap a una aplicació més interactiva 
   - Accés al document des de codi
   - Programació d'esdeveniments
   - Independència de les capes d'implementació d'aplicacions web
+  
+- **Tasques:**
+  - Clasificar interacciones
+  - Capturar eventos del DOM
+  - Asociar acciones a eventos
+  - Interactuar con objetos predefinidos
+  - Formularios web
+  - Validacion de campos
+  - expresiones regulares
+  - feedback de validacion
+  - Mensaje de exito
+  - Menu de navegacion responsive
+  - Persistencia de datos
 
 ---
 
 ## Sprint 5 — Comunicació asíncrona
 - **Durada:** 4 setmanes
-- **Objectiu del Sprint**
+- **Objectiu del Sprint:**
 En aquest últim Sprint l’alumnat incorporarà funcionalitats avançades relacionades amb la comunicació asíncrona i finalitzarà el desenvolupament del projecte. La web haurà d’estar completament funcional, documentada i preparada per a la seua presentació final.
 
   - Implementar comunicació asíncrona entre client i servidor.
@@ -232,7 +264,17 @@ En aquest últim Sprint l’alumnat incorporarà funcionalitats avançades relac
   - Comentaris al codi
   - Depuració i documentació del codi
 
-
+- **Tasques:**
+  - Preparacion del JSON
+  - Peticion completa
+  - peticiones especificas
+  - Rederizado dinamico
+  - Estado de carga de la peticion
+  - gestion de errores de red
+  - integrar y sincronizar librerias (mapa)
+  - Depuracion del codigo
+  - Revision de comentarios y codigo
+  - Presentacion y documentacion
 ---
 
 ## Pràctiques d'Empresa 
