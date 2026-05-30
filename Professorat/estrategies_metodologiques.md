@@ -1,8 +1,8 @@
-## **Estratègies Metodològiques** 
+# **Estratègies Metodològiques** 
 
 ## **Metodologia.** 
 
-## **Enfocament metodològic general.** 
+### **Enfocament metodològic general.** 
 
 El projecte s'organitza sobre una triple metodologia complementària, l'Aprenentatge Basat en Projectes (ABP) com a marc pedagògic global, l'Aprenentatge Basat en Serveis (ABS) com a dimensió comunitària i compromís social i Agile com a metodologia de gestió i organització del treball. 
 
@@ -10,7 +10,7 @@ Aquesta combinació permet que l'alumnat aprenga els continguts tècnics del mò
 
 El desenvolupament del projecte d'una web per a promoure el comerç local actua com a fil conductor al llarg del procés d’aprenentatge. No es tracta d'exercicis aïllats, sinó d'un producte final que va creixent al llarg de les setmanes, que té un destinatari real i que genera un impacte tangible en la comunitat, la qual cosa dona sentit i motivació a cada nou contingut treballat. 
 
-## **Aprenentatge Basat en Projectes (ABP)** 
+### **Aprenentatge Basat en Projectes (ABP)** 
 
 L'aprenentatge basat en projectes planteja com a repte inicial ajudar al comerç local a ser més visible. En base a aquesta premissa, l'alumnat ha de prendre decisions, investigar solucions, aplicar els continguts de la matèria, a més de defensar les seues decisions davant dels companys i el professor. 
 
@@ -24,13 +24,13 @@ Les característiques principals d'aquesta aplicació de l'ABP són:
 
 - ➢ L’alumnat treballa en equips de entre 3 i 4 persones màxim. S’han de repartir tasques, negociar decisions tècniques i resoldre conflictes. 
 
-## **Aprenentatge Basat en Serveis (ABS)** 
+### **Aprenentatge Basat en Serveis (ABS)** 
 
 L'ABS és una metodologia que combina l'aprenentatge curricular amb un servei real a la comunitat. El producte que desenvolupa l'alumnat respon a una necessitat real i els seus destinataris són persones o col·lectius reals que es beneficien del resultat. 
 
 En aquest projecte, la dimensió de servei es concreta en el fet que la web desenvolupada promou activament els comerços locals del municipi elegit pel grup, ajudant establiments reals a tindre presència digital i a ser accessibles per a la ciutadania. 
 
-## **Estratègies Metodològiques** 
+### **Estratègies Metodològiques** 
 
 Això implica: 
 
@@ -44,11 +44,11 @@ Això implica:
 
 Aquesta dimensió de l'ABS reforça la motivació intrínseca de l'alumnat, dota de significat les decisions tècniques i connecta el currículum del mòdul amb valors de responsabilitat, compromís i ciutadania digital activa. 
 
-## **Metodologia Agile adaptada a l'aula** 
+### **Metodologia Agile adaptada a l'aula** 
 
 Dins del marc de l'aprenentatge basat en projectes i de la metodologia Agile, utilitzarem la metodologia Scrum. Aquesta metodologia estructura el projecte en Sprints de durada variable segons la quantitat i complexitat dels continguts de cada fase. 
 
-## **Estructura dels Sprints** 
+### **Estructura dels Sprints** 
 
 El projecte s'organitza en cinc Sprints. La durada total del projecte serà de 132 hores lectives, distribuïdes en tres sessions dobles per setmana, impartides els dilluns, dimecres i divendres. La taula 1 mostra la planificació dels Springs tenint en compte les 22 setmanes disponibles. La durada de cadascun s'ajusta al volum de continguts i a la dificultat tècnica implicada: 
 
@@ -65,27 +65,27 @@ El projecte s'organitza en cinc Sprints. La durada total del projecte serà de 1
 
 ## **Estratègies Metodològiques** 
 
-## **Ritme de treball dins de cada Sprint** 
+### **Ritme de treball dins de cada Sprint** 
 
 Cada Sprint segueix una estructura que l'alumnat incorporarà progressivament com a rutina de treball. 
 
 El primer esdeveniment en Scrum és el Refinement o Grooming session, on l’equip es reuneix amb el Product Owner (PO) per a crear el seu backlog. L’equip junt amb el PO crea els PBI (product backlog items). En el nostre cas, el backlog serà facilitat pel professorat. 
 
-## **Inici del Sprint — Sprint Planning** 
+### **Inici del Sprint — Sprint Planning** 
 
 L'equip revisa el Product Backlog, llista de funcionalitats pendents del projecte ordenades per prioritats, i selecciona les tasques que es compromet a completar, anotant-les al seu Sprint Backlog. Cada membre del grup serà programador de la tasca assignada i tester de les altres tasques. 
 
 Es defineixen els rols interns de l'equip per a cada Sprint, responsable dels esdeveniments de Scrum (Scrum Master), un resposable del disseny de marca (UI), un membre responsable de documentació… Els rols aniràn canviant en cada Sprint. 
 
-## **Durant el Sprint — Standup diari** 
+### **Durant el Sprint — Standup diari** 
 
 A l'inici de cada sessió, cada equip dedica entre 5 i 10 minuts a respondre tres preguntes: Què varem fer l'última sessió? Què farem avui? Tenim algun bloqueig? Aquesta dinàmica fomenta la comunicació, detecta problemes i treballa la responsabilitat compartida. 
 
-## **Final del Sprint — Sprint Review i Retrospectiva** 
+### **Final del Sprint — Sprint Review i Retrospectiva** 
 
 En acabar cada Sprint, els equips faran una breu demostració funcional del que han construït, seguida d’un breu debat guiat (guiat pel Scrum Master) on l'equip reflexiona col·lectivament sobre el que ha funcionat bé, el que caldria millorar i com s'organitzaran en el proper Sprint, d’aquesta reunió han d’eixir solucions SMART per als problemes dectectats. 
 
-## **Eines de gestió del projecte** 
+### **Eines de gestió del projecte** 
 
 Per a fer efectiva la metodologia Scrum, cada equip gestionarà el seu treball mitjançant un tauler un Scrum board (per exemple amb Trello o GitHub Projects) amb les columnes: Per fer, En progrés, Revisat i Fet. El professor tindrà accés als taulers per a fer el seguiment i detectar quins equips necessiten suport. 
 
@@ -103,12 +103,9 @@ L’alumnat podrà tindre tres tipus de rol:
 
 - Documentador: Serà l’encarregat de documentar les tasques desenvolupades en el Sprint. 
 
-
-## **Estratègies Metodològiques** 
-
 ## **Adaptacions i DUA** 
 
-## **DUA. Marc general** 
+### **DUA. Marc general** 
 
 El Disseny Universal per a l'Aprenentatge (DUA) és un enfocament que planteja dissenyar les activitats d'aprenentatge des del principi de manera que siguen accessibles per a tot l'alumnat, sense necessitat d'adaptacions posteriors individualitzades. Es basa en tres principis fonamentals: 
 
@@ -120,13 +117,13 @@ Múltiples formes d'implicació. Com es motiva i implica l'alumnat en el procés
 
 En aquest projecte, el DUA s'aplica de forma transversal i vinculada a cada Sprint, de manera que les mesures estiguen integrades en la dinàmica de treball. 
 
-## **Perfil d'atenció a la diversitat: alumnat amb dificultats d'aprenentatge** 
+### **Perfil d'atenció a la diversitat: alumnat amb dificultats d'aprenentatge** 
 
 Les adaptacions recollides en aquest apartat estan orientades principalment a alumnat que pot presentar dislèxia, TDAH o altres dificultats específiques d'aprenentatge. En el context d'un cicle formatiu de grau superior, aquest alumnat sovint ha desenvolupat estratègies pròpies de compensació, però el treball amb codi, documentació tècnica i gestió del temps pot suposar una càrrega cognitiva. 
 
 ## **Adaptacions per Sprint** 
 
-## **Sprint 1. Planificació i disseny** 
+### **Sprint 1. Planificació i disseny** 
 
 La fase de planificació exigeix llegir i comprendre documents, prendre decisions abstractes i organitzar idees sense disposar d’un producte. 
 
@@ -141,9 +138,7 @@ Assignar els rols d'equip de forma explícita en aquest primer Sprint, evitant q
 Oferir la pregunta motriu del projecte en format oral i visual simultàniament (text + esquema + explicació del docent). 
 
 
-## **Estratègies Metodològiques** 
-
-## **Sprint 2. Estructura i maquetació** 
+### **Sprint 2. Estructura i maquetació** 
 
 La lectura de documentació tècnica (MDN, apunts) pot ser lenta o esgotadora per a alumnat amb dislèxia. La gestió del temps en sessions llargues pot ser difícil per a alumnat amb TDAH. 
 
@@ -157,7 +152,7 @@ Proporcionar una plantilla HTML base comentada, que l'alumnat puga completar i m
 
 Emprar extensions del navegador per a millorar l’accessibilitat, augment de font, mode alt contrast.. 
 
-## **Sprint 3. Lògica JavaScript** 
+### **Sprint 3. Lògica JavaScript** 
 
 L'alumnat amb TDAH pot tenir dificultat per mantenir l'atenció en conceptes que no produeixen un resultat visual immediat. L'alumnat amb dislèxia pot cometre errors tipogràfics en el codi que generen frustració. 
 
@@ -171,7 +166,7 @@ Oferir pseudocodi en valencià com a pas intermedi abans d'escriure codi real, p
 
 Dividir les tasques del Sprint Backlog en subtasques per a aquest equip, de manera que cada sessió tinga objectius més xicotets i assolibles. 
 
-## **Sprint 4. Interactivitat i DOM** 
+### **Sprint 4. Interactivitat i DOM** 
 
 La manipulació del DOM implica entendre la relació entre HTML i JavaScript de forma simultània, cosa que pot saturar la memòria de treball. Els esdeveniments poden ser difícils de depurar i generar cicles de frustració. 
 
@@ -184,9 +179,7 @@ Proposar una llista de comprovació per als esdeveniments, per a alleujar la mem
 Permetre que la Sprint Review d'aquest Sprint es faça en format demostració pràctica sense exposició oral obligatòria, acceptant també una gravació de pantalla com a alternativa. 
 
 
-## **Estratègies Metodològiques** 
-
-## **Sprint 5. Comunicació asíncrona** 
+### **Sprint 5. Comunicació asíncrona** 
 
 Els conceptes de peticions asíncrones (promeses, async/await) són dels més abstractes del mòdul i poden generar sensació d'encallament. La pressió del tancament del projecte pot augmentar l'ansietat. 
 
@@ -210,4 +203,4 @@ Feedback freqüent. El docent dedica un moment de seguiment individual o per equ
 
 Avaluació del procés, no sols del producte: el tauler Kanban, els standups i les retrospectives són evidències d'aprenentatge tan vàlides com el codi entregat, cosa que permet reconèixer el progrés de tot l'alumnat independentment del ritme. 
 
-Afavorir un clima on l'error és part del procés, especialment beneficiós per a alumnat que habitualment viu l'error amb alta càrrega emocional. 
+Afavorir un clima on l'error és part del procés, especialment beneficiós per a alumnat que habitualment viu l'error amb alta càrrega emocional.
