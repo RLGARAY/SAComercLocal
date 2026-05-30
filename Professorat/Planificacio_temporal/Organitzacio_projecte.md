@@ -37,17 +37,6 @@
   - Utilització d'objectes. Objectes natius del llenguatge
   - Interacció amb el navegador. Objectes predefinits associats
 
-- **Tasques:**
-  - Crear trello
-  - Asignar roles
-  - Analizar competencia
-  - Esquema de la estructura inicial de la web
-  - Wireframe: home, comercio, navegacion etc..
-  - Instalacion herramientas
-  - Repositorio git
-  - Crear proyecto base React
-  - Prueba de ejecución
-  
 ---
 
 ## Sprint 2 — Estructura i maquetació
@@ -79,12 +68,6 @@ En aquest Sprint l’alumnat desenvoluparà l’estructura base de la web del co
   - Comentaris al codi
   - Independència de les capes d'implementació d'aplicacions web
 
-- **Tasques:**
-  - Estructura de carpetas del proyecto
-  - Maquetar en HTML: Home, comercio...
-  - Sistema de rutas
-  - Vincular las vistas
-  - Busqueda de componentes React
 ---
 
 ## Sprint 3 — Lògica JavaScript
@@ -141,19 +124,6 @@ L’objectiu principal d’aquest Sprint serà implementar la lògica funcional 
   - Patrons de disseny
   - Depuració i documentació del codi
 
-- **Tasques:**
-  - Estructura de datos
-  - Catalogo de muestra
-  - variables de estado
-  - Modificar componentes html a react
-  - implementacion de la logica: funciones, subcampos
-  - Listado del Home
-  - Renderizado de ficha individual
-  - Buscador
-  - Filtros de categorias
-  - clasificacion y ordenacion del catalogo
-  - patrones de diseño
-  - depuracion y busqueda de errores
 ---
 
 ## Sprint 4 — Interactivitat i DOM
@@ -211,19 +181,6 @@ Durant aquest Sprint la web evolucionarà cap a una aplicació més interactiva 
   - Programació d'esdeveniments
   - Independència de les capes d'implementació d'aplicacions web
   
-- **Tasques:**
-  - Clasificar interacciones
-  - Capturar eventos del DOM
-  - Asociar acciones a eventos
-  - Interactuar con objetos predefinidos
-  - Formularios web
-  - Validacion de campos
-  - expresiones regulares
-  - feedback de validacion
-  - Mensaje de exito
-  - Menu de navegacion responsive
-  - Persistencia de datos
-
 ---
 
 ## Sprint 5 — Comunicació asíncrona
@@ -264,17 +221,6 @@ En aquest últim Sprint l’alumnat incorporarà funcionalitats avançades relac
   - Comentaris al codi
   - Depuració i documentació del codi
 
-- **Tasques:**
-  - Preparacion del JSON
-  - Peticion completa
-  - peticiones especificas
-  - Rederizado dinamico
-  - Estado de carga de la peticion
-  - gestion de errores de red
-  - integrar y sincronizar librerias (mapa)
-  - Depuracion del codigo
-  - Revision de comentarios y codigo
-  - Presentacion y documentacion
 ---
 
 ## Pràctiques d'Empresa 
