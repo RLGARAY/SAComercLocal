@@ -98,3 +98,22 @@ El projecte educatiu està referenciat per la següent legislació estatal, auto
 ## Centre educatiu
 
 - Projecte Educatiu de Centre (PEC de l’IES Jaume II El Just, 2024).
+
+# Resultats d'Aprenentatge i Criteris d'Avaluacio
+
+La taula seguent mostra una vista global de quins criteris d'avaluacio es treballen en cada Sprint del projecte. Per a una descripcio detallada de cada criteri i de les activitats associades, consulteu el document d'**Organitzacio del projecte** ([Organitzacio_projecte.md](../Organitzacio_projecte.md)).
+
+La columna **FCT** fa referencia als criteris reservats per al seu aprenentatge en context real durant les Practiques d'Empresa.
+
+||1a|1b|1c|1d|1e|1f|2a|2b|2c|2d|2e|2f|2g|2h|3a|3b|3c|3d|3e|3f|3g|3h|4a|4b|4c|4d|4e|4f|4g|4h|4i|4j|4k|5a|5b|5c|5d|5e|5f|5g|5h|6a|6b|6c|6d|6e|6f|6g|6h|7a|7b|7c|7d|7e|7f|7g|7h|7i|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Sp.1**|X|X|X|X| | |X| | | | | | |X|X|X| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|**Sp.2**| | | | |X|X| | | | | | |X| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |X| | | | | | | | | |
+|**Sp.3**| | | | | | | |X|X|X|X|X|X| | | | | | | | | |X|X|X|X|X|X|X|X|X|X|X| | | | | | | | | | | | | | | | | | | | | | | | | |
+|**Sp.4**| | | | | | | | | | | | | | | | |X|X|X| |X|X| | | | | | | | | | | |X|X|X|X|X|X|X|X|X|X|X|X|X| | | | | | | | | | | | |
+|**Sp.5**| | | | | | | | | | | | |X| | | | | | | | |X| | | | | | | | | | |X| | | | | | | |X| | | | | | | | |X|X|X|X|X|X| |X|X|
+|**FCT**| | | | | | | | | | | | | | | | | | | |X| | | | | | | | | | | | | | | | | | | | | | | | | | |X|X| | | | | | | |X| | |
+
+**Llegenda:** **X** = Criteri treballat en eixe Sprint | Buit = Criteri no treballat en eixe Sprint
+
+Els numeros de les columnes fan referencia al criteri del RA correspondent: **1a** = RA1 criteri a, **2b** = RA2 criteri b, etc.
