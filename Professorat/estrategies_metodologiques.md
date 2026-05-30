@@ -54,11 +54,11 @@ El projecte s'organitza en cinc Sprints. La durada total del projecte serà de 1
 
 |**Sprint**|**Nom**|**Durada**<br>**Setmanes**|**Continguts**|**RA**|
 |---|---|---|---|---|
-|1|Planificació i disseny|2|Arquitectures web, wireframing,<br>repartiment de rols|RA1|
-|2|Estructura i maquetació|6|HTML semàntic, CSS, buscador<br>estàtic|RA2<br>RA6|
-|3|Lògica JavaScript|5|Variables, funcions, arrays,<br>objectes, filtratge|RA3<br>RA4|
-|4|Interactivitat i DOM|5|Esdeveniments, manipulació del<br>DOM,fitxes dinàmiques|RA5<br>RA6|
-|5|Comunicació asíncrona|3|Fetch API, JSON, actualització<br>dinàmica|RA7|
+|1|Planificació i disseny|2|Arquitectures web, wireframing,<br>repartiment de rols|RA1<br>RA2<br>RA3|
+|2|Estructura i maquetació|3|HTML semàntic, CSS, React Router,<br>components|RA1<br>RA2<br>RA6|
+|3|Lògica JavaScript|7|Variables, funcions, arrays,<br>objectes, filtratge,<br>patrons de disseny|RA2<br>RA4|
+|4|Interactivitat i DOM|6|Esdeveniments, formularis,<br>DOM, menú responsive,<br>persistència|RA3<br>RA5<br>RA6|
+|5|Comunicació asíncrona|4|Fetch API, JSON, llibreries,<br>depuració i presentació final|RA2<br>RA3<br>RA4<br>RA5<br>RA7|
 
 
 
@@ -204,3 +204,19 @@ Feedback freqüent. El docent dedica un moment de seguiment individual o per equ
 Avaluació del procés, no sols del producte: el tauler Kanban, els standups i les retrospectives són evidències d'aprenentatge tan vàlides com el codi entregat, cosa que permet reconèixer el progrés de tot l'alumnat independentment del ritme. 
 
 Afavorir un clima on l'error és part del procés, especialment beneficiós per a alumnat que habitualment viu l'error amb alta càrrega emocional.
+
+## **Desplegament i hosting del projecte**
+
+Un cop finalitzat el projecte i superades totes les fases de desenvolupament, es procedirà al desplegament de la web en un entorn de producció real. Per a determinar la solució de hosting més adequada, es farà una reunió de coordinació amb el professorat de la assignatura de Desenvolupament Web en Entorn Servidor, amb l'objectiu d'acordar l'opció que millor s'adapte tant als continguts treballats en eixa assignatura com a les necessitats del projecte i al perfil de l'alumnat.
+
+Aquesta col·laboració interdepartamental permetrà:
+
+- ➢ Triar una plataforma de desplegament (per exemple, Vercel, Netlify, GitHub Pages, o un servidor propi) que estiga alineada amb els coneixements de l'alumnat en l'entorn servidor i que facilite un procés de publicació didàctic i proper a la realitat professional.
+
+- ➢ Aprofitar el desplegament com a oportunitat d'aprenentatge addicional, introduint l'alumnat als conceptes bàsics de hosting, dominis, certificats SSL i configuració d'entorns, sempre en la mesura que siga compatible amb els objectius d'ambdós mòduls.
+
+- ➢ Assegurar que la web resultant siga accessible i operativa per a les persones destinatàries (ciutadania i comerços locals), tancant així la dimensió de servei del projecte.
+
+- ➢ Establir criteris tècnics comuns per a tots els grups, garantint una experiència homogènia i justa en quant a les condicions de desplegament.
+
+La decisió final sobre la solució de hosting serà consensuada entre els docents dels dos mòduls i es comunicarà a l'alumnat amb suficient antelació perquè puga preparar el desplegament durant les últimes setmanes del projecte.
