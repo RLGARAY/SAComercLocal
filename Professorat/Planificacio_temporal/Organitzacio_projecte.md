@@ -196,6 +196,10 @@ En aquest últim Sprint l’alumnat incorporarà funcionalitats avançades relac
   - Preparar la documentació i la presentació final de la web del comerç local.
 
 - **RA treballats:**
+  - RA2
+  - RA3
+  - RA4
+  - RA5
   - RA7
 
 - **Criteris d'avaluació:**
