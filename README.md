@@ -1,4 +1,4 @@
-# SAComercLocal
+# SA Comerç Local
 
 **Mòdul 0612 — Desenvolupament Web en Entorn Client (DWEC)**
 
