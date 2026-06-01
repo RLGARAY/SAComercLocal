@@ -35,7 +35,7 @@ El projecte està dissenyat perquè, en acabar-lo, hagueu desenvolupat les segü
 
 ### Competències tècniques
 
-Aquestes competències es deriven del **Resultat d'Aprenentatge del mòdul 0612** establert al [RD 686/2010](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9269):
+Aquestes competències es deriven del **Resultat d'Aprenentatge del mòdul 0612** establert al [RD 405/2023](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-13221):
 
 | Competència | Descripció |
 |-------------|------------|
@@ -49,7 +49,7 @@ Aquestes competències es deriven del **Resultat d'Aprenentatge del mòdul 0612*
 
 ### Competències transversals
 
-Aquestes es corresponen amb les **competències professionals, personals i socials** del títol (art. 5, RD 686/2010):
+Aquestes es corresponen amb les **competències professionals, personals i socials** del títol (art. 5, RD 405/2023):
 
 | Competència | Descripció |
 |-------------|------------|
