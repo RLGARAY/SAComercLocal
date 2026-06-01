@@ -1,177 +1,314 @@
-[
+[[
   {
     "nom": "Moda Valldigna",
     "telefon": "962850001",
     "ubicacio": "Passeig del País Valencià, 12",
     "horari": "Dilluns a divendres: 09:30-13:30, 17:00-20:00. Dissabtes: 10:00-13:30",
-    "descripcio": "Botiga de roba moderna per a tota la família."
+    "descripcio": "Botiga de roba moderna per a tota la família.",
+    "email": "info@modavalldigna.com",
+    "url": "https://www.modavalldigna.com",
+    "categoria": "Moda",
+    "subcategoria": "Roba i complements",
+    "imatge": ["https://placehold.co/600x400?text=Moda+Valldigna"]
   },
   {
     "nom": "Sabateria Passos",
     "telefon": "962850002",
     "ubicacio": "Carrer Major, 45",
     "horari": "Dilluns a divendres: 10:00-14:00, 17:00-20:30. Dissabtes: 10:00-14:00",
-    "descripcio": "Especialistes en calcer de pell i esportiu."
+    "descripcio": "Especialistes en calcer de pell i esportiu.",
+    "email": "hola@sabateriapassos.es",
+    "url": "https://www.sabateriapassos.es",
+    "categoria": "Moda",
+    "subcategoria": "Calcer",
+    "imatge": ["https://placehold.co/600x400?text=Sabateria+Passos"]
   },
   {
     "nom": "Perruqueria Estil",
     "telefon": "600111222",
     "ubicacio": "Carrer de la Pau, 5",
     "horari": "Dilluns a divendres: 09:00-19:00. Dissabtes: 09:00-14:00",
-    "descripcio": "Saló de bellesa amb talls i tints d'avantguarda."
+    "descripcio": "Saló de bellesa amb talls i tints d'avantguarda.",
+    "email": "estil@perruqueria.cat",
+    "url": "https://www.perruqueriaestil.com",
+    "categoria": "Bellesa",
+    "subcategoria": "Perruqueria",
+    "imatge": ["https://placehold.co/600x400?text=Perruqueria+Estil"]
   },
   {
     "nom": "Peixateria Mar Blava",
     "telefon": "962850003",
     "ubicacio": "Carrer de les Creus, 22",
     "horari": "Dilluns a divendres: 08:00-14:00. Dissabtes: 08:00-14:30",
-    "descripcio": "Peix fresc de la llotja diàriament."
+    "descripcio": "Peix fresc de la llotja diàriament.",
+    "email": "marblava@peixateries.com",
+    "url": "https://www.marblavatavernes.com",
+    "categoria": "Alimentació",
+    "subcategoria": "Peix i marisc",
+    "imatge": ["https://placehold.co/600x400?text=Peixateria+Mar+Blava"]
   },
   {
     "nom": "Carnisseria El Tall",
     "telefon": "962850004",
     "ubicacio": "Carrer de l'Església, 8",
     "horari": "Dilluns a divendres: 08:30-14:00, 17:30-20:00. Dissabtes: 08:30-14:00",
-    "descripcio": "Carns selectes i embotits artesanals de la Valldigna."
+    "descripcio": "Carns selectes i embotits artesanals de la Valldigna.",
+    "email": "eltall@carnisseria.es",
+    "url": "https://www.carnisseriaeltall.com",
+    "categoria": "Alimentació",
+    "subcategoria": "Carnisseria",
+    "imatge": ["https://placehold.co/600x400?text=Carnisseria+El+Tall"]
   },
   {
     "nom": "Forn del Barri",
     "telefon": "962850005",
     "ubicacio": "Avinguda de la Valldigna, 30",
     "horari": "Dilluns a divendres: 07:00-14:30. Dissabtes: 07:00-15:00",
-    "descripcio": "Pa artesanal fet en forn de llenya."
+    "descripcio": "Pa artesanal fet en forn de llenya.",
+    "email": "forn@barrivalldigna.com",
+    "url": "https://www.forndelbarri.com",
+    "categoria": "Alimentació",
+    "subcategoria": "Forn de pa",
+    "imatge": ["https://placehold.co/600x400?text=Forn+del+Barri"]
   },
   {
     "nom": "Floristeria Natura",
     "telefon": "611222333",
     "ubicacio": "Carrer de Sant Josep, 14",
     "horari": "Dilluns a divendres: 09:30-14:00, 17:00-20:00. Dissabtes: 10:00-14:00",
-    "descripcio": "Rams personalitzats i plantes decoratives per a regalar."
+    "descripcio": "Rams personalitzats i plantes decoratives per a regalar.",
+    "email": "natura@floristeria.cat",
+    "url": "https://www.floristerianatura.es",
+    "categoria": "Llar",
+    "subcategoria": "Floristeria",
+    "imatge": ["https://placehold.co/600x400?text=Floristeria+Natura"]
   },
   {
     "nom": "Ferreteria Ferro",
     "telefon": "962850006",
     "ubicacio": "Carrer de Gabriel Miró, 2",
     "horari": "Dilluns a divendres: 09:00-13:30, 16:30-20:00. Dissabtes: 09:00-13:30",
-    "descripcio": "Tot tipus d'eines i material per al bricolatge."
+    "descripcio": "Tot tipus d'eines i material per al bricolatge.",
+    "email": "vendes@ferreteriaferro.com",
+    "url": "https://www.ferreteriaferro.com",
+    "categoria": "Llar",
+    "subcategoria": "Ferreteria",
+    "imatge": ["https://placehold.co/600x400?text=Ferreteria+Ferro"]
   },
   {
     "nom": "Òptica Visió",
     "telefon": "962850007",
     "ubicacio": "Carrer de Sant Roc, 19",
     "horari": "Dilluns a divendres: 10:00-13:30, 17:00-20:00. Dissabtes: 10:00-13:30",
-    "descripcio": "Exàmens visuals i venda d'ulleres graduades i sol."
+    "descripcio": "Exàmens visuals i venda d'ulleres graduades i sol.",
+    "email": "visio@optica.com",
+    "url": "https://www.opticavisio.es",
+    "categoria": "Salut",
+    "subcategoria": "Òptica",
+    "imatge": ["https://placehold.co/600x400?text=Optica+Visio"]
   },
   {
     "nom": "Farmàcia de l'Estació",
     "telefon": "962850008",
     "ubicacio": "Carrer de la Barca, 55",
     "horari": "Dilluns a divendres: 08:30-21:30. Dissabtes: 09:00-14:00, 17:00-21:00",
-    "descripcio": "Atenció farmacèutica i productes de dermocosmètica."
+    "descripcio": "Atenció farmacèutica i productes de dermocosmètica.",
+    "email": "farmacia@estaciotavernes.com",
+    "url": "https://www.farmaciaestacio.cat",
+    "categoria": "Salut",
+    "subcategoria": "Farmàcia",
+    "imatge": ["https://placehold.co/600x400?text=Farmacia+Estacio"]
   },
   {
     "nom": "Papereria El Clip",
     "telefon": "962850009",
     "ubicacio": "Carrer de Mar, 7",
     "horari": "Dilluns a divendres: 09:00-14:00, 17:00-20:00. Dissabtes: 10:00-13:30",
-    "descripcio": "Material escolar, oficina i servei de fotocòpies."
+    "descripcio": "Material escolar, oficina i servei de fotocòpies.",
+    "email": "elclip@papereria.es",
+    "url": "https://www.elclippapereria.com",
+    "categoria": "Oci i cultura",
+    "subcategoria": "Papereria",
+    "imatge": ["https://placehold.co/600x400?text=Papereria+El+Clip"]
   },
   {
     "nom": "Electrònica Valldigna",
     "telefon": "962850010",
     "ubicacio": "Carrer dels Clotxes, 11",
     "horari": "Dilluns a divendres: 10:00-14:00, 17:00-20:30. Dissabtes: 10:00-14:00",
-    "descripcio": "Venda i reparació de xicotets electrodomèstics."
+    "descripcio": "Venda i reparació de xicotets electrodomèstics.",
+    "email": "servei@electronicavalldigna.com",
+    "url": "https://www.electronicavalldigna.com",
+    "categoria": "Llar",
+    "subcategoria": "Electrodomèstics",
+    "imatge": ["https://placehold.co/600x400?text=Electronica+Valldigna"]
   },
   {
     "nom": "Joieria Or",
     "telefon": "962850011",
     "ubicacio": "Carrer de València, 3",
     "horari": "Dilluns a divendres: 10:00-13:30, 17:00-20:00. Dissabtes: 10:00-14:00",
-    "descripcio": "Joies d'or, plata i rellotges de luxe."
+    "descripcio": "Joies d'or, plata i rellotges de luxe.",
+    "email": "joieriaor@gmail.com",
+    "url": "https://www.joieriaor.es",
+    "categoria": "Moda",
+    "subcategoria": "Joieria",
+    "imatge": ["https://placehold.co/600x400?text=Joieria+Or"]
   },
   {
     "nom": "Joguines Rialles",
     "telefon": "962850012",
     "ubicacio": "Carrer d'Alacant, 25",
     "horari": "Dilluns a divendres: 10:00-14:00, 17:00-20:30. Dissabtes: 10:30-14:00",
-    "descripcio": "Jocs educatius i joguines per a totes les edats."
+    "descripcio": "Jocs educatius i joguines per a totes les edats.",
+    "email": "rialles@joguines.com",
+    "url": "https://www.joguinesrialles.cat",
+    "categoria": "Oci i cultura",
+    "subcategoria": "Joguines",
+    "imatge": ["https://placehold.co/600x400?text=Joguines+Rialles"]
   },
   {
     "nom": "Fruiteria La Terra",
     "telefon": "622333444",
     "ubicacio": "Carrer de Castelló, 9",
     "horari": "Dilluns a divendres: 08:00-14:30, 17:30-20:00. Dissabtes: 08:00-14:00",
-    "descripcio": "Fruita de proximitat i verdures ecològiques."
+    "descripcio": "Fruita de proximitat i verdures ecològiques.",
+    "email": "fruita@laterra.cat",
+    "url": "https://www.fruiterialaterra.com",
+    "categoria": "Alimentació",
+    "subcategoria": "Fruiteria",
+    "imatge": ["https://placehold.co/600x400?text=Fruiteria+La+Terra"]
   },
   {
     "nom": "Estètica Glamour",
     "telefon": "633444555",
     "ubicacio": "Carrer d'Ausiàs March, 1",
     "horari": "Dilluns a divendres: 09:30-19:30. Dissabtes: 09:30-14:30",
-    "descripcio": "Tractaments facials, corporals i manicura professional."
+    "descripcio": "Tractaments facials, corporals i manicura professional.",
+    "email": "glamour@estetica.es",
+    "url": "https://www.esteticaglamour.com",
+    "categoria": "Bellesa",
+    "subcategoria": "Estètica",
+    "imatge": ["https://placehold.co/600x400?text=Estetica+Glamour"]
   },
   {
     "nom": "Informàtica Bits",
     "telefon": "962850013",
     "ubicacio": "Carrer de Joanot Martorell, 16",
     "horari": "Dilluns a divendres: 09:30-13:30, 17:00-20:00. Dissabtes: 10:00-13:30",
-    "descripcio": "Venda d'ordinadors i assistència tècnica informàtica."
+    "descripcio": "Venda d'ordinadors i assistència tècnica informàtica.",
+    "email": "suport@infobits.cat",
+    "url": "https://www.informaticabits.es",
+    "categoria": "Tecnologia",
+    "subcategoria": "Informàtica",
+    "imatge": ["https://placehold.co/600x400?text=Informatica+Bits"]
   },
   {
     "nom": "Mascotes Amigues",
     "telefon": "962850014",
     "ubicacio": "Carrer de Lepant, 4",
     "horari": "Dilluns a divendres: 10:00-14:00, 17:00-20:00. Dissabtes: 10:00-14:00",
-    "descripcio": "Alimentació i accessoris per a tota classe d'animals."
+    "descripcio": "Alimentació i accessoris per a tota classe d'animals.",
+    "email": "mascotes@amigues.cat",
+    "url": "https://www.mascotesamigues.es",
+    "categoria": "Animals",
+    "subcategoria": "Botiga de mascotes",
+    "imatge": ["https://placehold.co/600x400?text=Mascotes+Amigues"]
   },
   {
     "nom": "Mobles Tavernes",
     "telefon": "962850015",
     "ubicacio": "Carrer de Cervantes, 33",
     "horari": "Dilluns a divendres: 10:00-13:30, 16:30-20:30. Dissabtes: 10:00-14:00",
-    "descripcio": "Disseny d'interiors i venda de mobles per a la llar."
+    "descripcio": "Disseny d'interiors i venda de mobles per a la llar.",
+    "email": "info@moblestavernes.com",
+    "url": "https://www.moblestavernes.com",
+    "categoria": "Llar",
+    "subcategoria": "Mobiliari",
+    "imatge": ["https://placehold.co/600x400?text=Mobles+Tavernes"]
   },
   {
     "nom": "Esports Meta",
     "telefon": "962850016",
     "ubicacio": "Carrer de Colom, 21",
     "horari": "Dilluns a divendres: 10:00-14:00, 17:00-20:00. Dissabtes: 10:00-14:00",
-    "descripcio": "Roba esportiva i equipament per a qualsevol esport."
+    "descripcio": "Roba esportiva i equipament per a qualsevol esport.",
+    "email": "club@esportsmeta.es",
+    "url": "https://www.esportsmeta.com",
+    "categoria": "Moda",
+    "subcategoria": "Roba esportiva",
+    "imatge": ["https://placehold.co/600x400?text=Esports+Meta"]
   },
   {
     "nom": "Llibreria La Vall",
     "telefon": "962850021",
     "ubicacio": "Carrer de les Ànimes, 15",
     "horari": "Dilluns a divendres: 09:00-13:30, 17:00-20:00. Dissabtes: 10:00-14:00",
-    "descripcio": "Venda de llibres, revistes i material de papereria creativa."
+    "descripcio": "Venda de llibres, revistes i papereria creativa.",
+    "email": "lavall@llibreria.cat",
+    "url": "https://www.llibrerialavall.com",
+    "categoria": "Oci i cultura",
+    "subcategoria": "Llibreria",
+    "imatge": ["https://placehold.co/600x400?text=Llibreria+La+Vall"]
+  },
+  {
+    "nom": "EcoBotiga L'Hort",
+    "telefon": "644111222",
+    "ubicacio": "Carrer del Portal, 42",
+    "horari": "Dilluns a divendres: 08:30-14:00, 17:30-20:30. Dissabtes: 09:00-14:00",
+    "descripcio": "Productes d'alimentació ecològica i artesania local.",
+    "email": "hola@ecolhort.cat",
+    "url": "https://www.ecobotigalhort.es",
+    "categoria": "Alimentació",
+    "subcategoria": "Productes ecològics",
+    "imatge": ["https://placehold.co/600x400?text=EcoBotiga+L+Hort"]
   },
   {
     "nom": "Ritmes Musicals",
     "telefon": "962850023",
     "ubicacio": "Carrer de Sant Miquel, 8",
     "horari": "Dilluns a divendres: 10:00-14:00, 17:00-20:00. Dissabtes: 10:00-13:30",
-    "descripcio": "Venda d'instruments musicals i discos de vinil clàssics."
+    "descripcio": "Venda d'instruments musicals i discos de vinil.",
+    "email": "ritmes@musica.com",
+    "url": "https://www.ritmesmusicals.es",
+    "categoria": "Oci i cultura",
+    "subcategoria": "Música",
+    "imatge": ["https://placehold.co/600x400?text=Ritmes+Musicals"]
   },
   {
     "nom": "Rodes i Cadenes",
     "telefon": "962850024",
     "ubicacio": "Carrer del Dr. Fleming, 5",
     "horari": "Dilluns a divendres: 09:30-13:30, 16:30-20:00. Dissabtes: 09:30-13:30",
-    "descripcio": "Botiga de bicicletes i servei tècnic de reparació professional."
+    "descripcio": "Botiga de bicicletes i servei tècnic professional.",
+    "email": "taller@rodesicadenes.com",
+    "url": "https://www.rodesicadenes.cat",
+    "categoria": "Esports",
+    "subcategoria": "Ciclisme",
+    "imatge": ["https://placehold.co/600x400?text=Rodes+i+Cadenes"]
   },
   {
-    "nom": "L'Instant Fotografia",
+     "nom": "L'Instant Fotografia",
     "telefon": "655222333",
     "ubicacio": "Carrer de Sant Vicent Ferrer, 12",
     "horari": "Dilluns a divendres: 10:00-14:00, 17:00-20:30. Dissabtes: 10:00-14:00",
-    "descripcio": "Estudi de fotografia professional, reportatges i revelat de fotos."
+    "descripcio": "Estudi de fotografia professional i revelat.",
+    "email": "estudi@linstant.cat",
+    "url": "https://www.linstantfotografia.com",
+    "categoria": "Serveis",
+    "subcategoria": "Fotografia",
+    "imatge": ["https://placehold.co/600x400?text=L+Instant+Fotografia"]
   }, 
   {
     "nom": "Pastisseria La Dolça",
     "telefon": "962850026",
     "ubicacio": "Carrer de les Germanies, 28",
     "horari": "Dilluns a divendres: 08:00-14:00, 17:00-20:30. Dissabtes: 08:00-14:30",
-    "descripcio": "Pastissos artesanals i dolços tradicionals fets cada dia."
+    "descripcio": "Pastissos artesanals i dolços tradicionals diaris.",
+    "email": "dolca@pastisseria.es",
+    "url": "https://www.ladolcapastisseria.com",
+    "categoria": "Alimentació",
+    "subcategoria": "Pastisseria",
+    "imatge": ["https://placehold.co/600x400?text=Pastisseria+La+Dolca"]
   }
 ]
