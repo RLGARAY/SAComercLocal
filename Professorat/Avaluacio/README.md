@@ -23,13 +23,13 @@ L'avaluació està completament vinculada al progrés competencial de l'alumnat:
 
 ## 📋 Seguiment del Treball en Equip (Ús de Trello)
 
-És tasca obligatòria del docent revisar activament el tauler de **Trello** de cada grup de treball. Encara que l'ús de Trello **no és avaluable directament** (ja que no està associat de manera explícita a cap RA o criteri d'avaluació normatiu), compleix una funció metodològica crucial:
+És tasca del docent revisar activament el tauler de **Trello** de cada grup de treball. L'ús de Trello compleix una funció metodològica crucial:
 
 * **Verificació de Cohesió:** Serveix per a constatar que tots els integrants del grup han treballat de manera equitativa i similar.
 * **Corroboració de Lliuraments:** Permet creuar els lliurables finals amb l'historial de desenvolupament, ja que **cada activitat proposada ha de correspondre's, com a mínim, amb una tasca dins del tauler Kanban** de Trello.
 * **Flux de Treball (Workflow):** S'ha d'auditar que totes les tasques hagen passat pel procés correcte d'elaboració (*Pendents*, *Especificar*, *Programar*, *Testing*, *Terminada*).
 
-⚠️ **Nota important sobre l'autoria:** En cas de detectar-se incongruències en el flux o situacions evidents on algun integrant del grup no haja aportat activament al desenvolupament de les tasques assignades, **això afectarà directament la seua nota individual** en els criteris d'avaluació corresponents de l'activitat associada.
+⚠️ En cas de detectar-se incongruències greus en el flux o situacions evidents on algun integrant del grup no haja aportat activament al desenvolupament de les tasques assignades, **això afectarà directament la seua nota individual** en els criteris d'avaluació corresponents de l'activitat associada.
 
 ---
 
