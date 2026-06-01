@@ -113,8 +113,8 @@ En la carpeta **`Eines_treball/`** teniu disponible el següent:
 - `Indicacions_tauler.md` — Guia per configurar i usar correctament el tauler Kanban de Trello.
 
 En la carpeta **`Material/`** teniu disponible el següent:
-- `Git/` — Presentació introductòria de Git.
-- `EduScrum/` — Presentació introductòria d'EduScrum.
+- `Presentacion git.pdf` — Presentació introductòria de Git.
+- `Presentacion eduscrum.pdf` — Presentació introductòria d'EduScrum.
 - La resta de material de teoria i els enunciats de les activitats s'aniran pujant a mesura que s'avance en el projecte.
 
 ---
