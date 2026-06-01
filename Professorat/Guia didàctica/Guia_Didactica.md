@@ -101,7 +101,9 @@ El projecte educatiu està referenciat per la següent legislació estatal, auto
 
 # Resultats d'Aprenentatge i Criteris d'Avaluacio
 
-La taula seguent mostra una vista global de quins criteris d'avaluacio es treballen en cada Sprint del projecte. Per a una descripcio detallada de cada criteri i de les activitats associades, consulteu el document d'**Organitzacio del projecte** ([Organitzacio_projecte.md](../Organitzacio_projecte.md)).
+Per tal de garantir una visió integral del procés d’aprenentatge, s’ha confeccionat una taula de relació entre cada criteri d’avaluació i les competències vinculades al saber fer i al saber estar. Aquesta taula es troba recollida en [Relació RA](https://github.com/RLGARAY/SAComercLocal/blob/main/Professorat/Guia%20did%C3%A0ctica/Relaci%C3%B3%20RA%20(saber%20fer-saber%20estar).ods).
+
+A més, la taula seguent mostra una vista global de quins criteris d'avaluacio es treballen en cada Sprint del projecte. Per a una descripcio detallada de cada criteri i de les activitats associades, consulteu el document d'**Organitzacio del projecte** ([Organitzacio_projecte.md](../Organitzacio_projecte.md)).
 
 La columna **FCT** fa referencia als criteris reservats per al seu aprenentatge en context real durant les Practiques d'Empresa.
 
