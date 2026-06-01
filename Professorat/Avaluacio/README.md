@@ -6,8 +6,8 @@ Aquest document descriu el procés, les eines i els criteris utilitzats per a l'
 
 En aquest directori es troben centralitzats tots els materials necessaris per a dur a terme la qualificació i el desenvolupament:
 
-* **[Dossier d'Activitats](./Avaluacio/Dossier_d_activitats.pdf):** Document que conté totes les activitats per fer. Aquestes activitats estan **ordenades per sprint i ordre d'execució**. Cada activitat descrita en aquest dossier especifica la seua pròpia rúbrica i està vinculada directament a les tasques del tauler Kanban de Trello, assegurant la traçabilitat entre el treball planificat i l'avaluació.
-* **[Rúbriques de les Activitats](./Avaluacio/Rubricas.md):** Accedeix a tots els instruments d'avaluació específics per separat de cada lliurament.
+* **[Dossier d'Activitats](./Dossier_d_activitats.pdf):** Document que conté totes les activitats per fer. Aquestes activitats estan **ordenades per sprint i ordre d'execució**. Cada activitat descrita en aquest dossier especifica la seua pròpia rúbrica i està vinculada directament a les tasques del tauler Kanban de Trello, assegurant la traçabilitat entre el treball planificat i l'avaluació.
+* **[Rúbriques de les Activitats](./Rubricas.md):** Accedeix a tots els instruments d'avaluació específics per separat de cada lliurament.
 * **Plantilla de Qualificació:** Utilitza el document unificat per a registrar i calcular les puntuacions finals.
 
 ---
