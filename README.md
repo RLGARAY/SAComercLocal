@@ -35,7 +35,7 @@ El projecte es desenvolupa en **5 sprints** amb durada total de **22 setmanes**:
 
 - **Scrum:** cada sprint té un producte concret lliurable.
 - **Tauler Kanban (Trello):** cada equip gestiona les seues tasques amb les columnes: Backlog, Especificar, Programar, Testing i Terminada.
-- **Git i GitHub:** treball amb branques per sprint (`sprint1`, `sprint2`, `sprint3`) i commits regulars.
+- **Git i GitHub:** treball amb branques per sprint (`sprint1`, `sprint2`, `sprint3`...) i commits regulars.
 - **Treball en equip:** rols rotatius, revisió entre company i treball autònom.
 
 ---
@@ -93,8 +93,6 @@ Contingut destinat al professorat:
 | **Trello** | Gestió del projecte (Kanban) |
 | **VS Code** | Editor de codi |
 | **Chrome / Firefox DevTools** | Depuració i proves |
-| **Figma** | Wireframes i prototips |
-| **Bootstrap / Tailwind** | Frameworks CSS opcionals |
 
 ---
 
