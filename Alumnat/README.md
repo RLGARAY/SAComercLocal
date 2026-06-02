@@ -7,7 +7,8 @@
 
 ## En què consisteix este projecte?
 
-Benvolguda, benvolgut alumnat!
+Benvolguda alumna! 
+Benvolgut alumne!
 
 A la situació d'aprenentatge **SAComercLocal** construireu una **aplicació web completa i funcional** amb un propòsit real: **donar visibilitat al comerç local del vostre municipi** i contribuir a la seua dinamització. En lloc de fer exercicis aïllats, cada cosa que aprendreu tindrà un lloc on aplicar-la dins d'un projecte amb sentit.
 
@@ -21,11 +22,11 @@ Una plataforma digital pensada per apropar els comerços de la vostra localitat 
 - **Contactar** amb els establiments mitjançant formularis
 - **Veure la ubicació** de cada comerç en un mapa interactiu
 
-### Per què val la pena?
+### Per què paga la pena?
 
-Primer, perquè té un **impacte real**: molts xicotets negocis no tenen presència digital, i la web que construireu pot ser la manera que la gent del vostre municipi els descubrisca i els visite.
+Primer, perquè té un **impacte real**: molts xicotets negocis no tenen presència digital, i la web que construireu pot ser la manera que la gent del vostre municipi els descobrisca i els visite.
 
-Segon, i igual d'important, perquè treballareu **exactament com es treballa al sector**: en equip, amb metodologia àgil, gestionant tasques en un tauler Kanban, utilitzant Git per col·laborar en el codi i construint amb React, el framework de JavaScript més demanat al mercat laboral.
+Segon, i igual d'important, perquè treballareu **exactament com es treballa al sector**: en equip, amb metodologia àgil, gestionant tasques en un tauler Kanban, utilitzant Git per col·laborar amb el codi i construint amb React, el framework de JavaScript més demanat al mercat laboral.
 
 Treballareu en equips de **3-4 persones**, repartint-vos tasques, negociant decisions tècniques i resolent problemes de forma col·laborativa.
 
