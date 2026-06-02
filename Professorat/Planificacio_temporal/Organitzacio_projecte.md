@@ -241,3 +241,10 @@ Criteris i continguts que, per la seua complexitat o especificitat, no s'han tre
   - Creació de noves finestres. Comunicació entre finestres
   - Diferències en les implementacions del model en diferents navegadors
   - Integració en diferents navegadors
+
+ ---
+
+ ## Diagrama de Gantt
+
+ <img src="./Diagrama_Gantt.png" alt="Infografia de les fases i temporalització del projecte" width="80%" height="80%">
+
