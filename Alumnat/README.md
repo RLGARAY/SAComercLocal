@@ -27,6 +27,8 @@ Primer, perquè té un **impacte real**: molts xicotets negocis no tenen presèn
 
 Segon, i igual d'important, perquè treballareu **exactament com es treballa al sector**: en equip, amb metodologia àgil, gestionant tasques en un tauler Kanban, utilitzant Git per col·laborar en el codi i construint amb React, el framework de JavaScript més demanat al mercat laboral.
 
+Treballareu en equips de **3-4 persones**, repartint-vos tasques, negociant decisions tècniques i resolent problemes de forma col·laborativa.
+
 ---
 
 ## Què aprendreu al llarg del projecte?
@@ -66,7 +68,7 @@ Aquestes es corresponen amb les **competències professionals, personals i socia
 
 El projecte s'organitza en **5 sprints** al llarg de **22 setmanes**, utilitzant la metodologia **Scrum** adaptada a l'aula. Cadascun dels sprints té un objectiu concret i un producte lliurable que anirà construint la web pas a pas.
 
-<img src="https://github.com/RLGARAY/SAComercLocal/blob/main/Professorat/Planificacio_temporal/infografia.png" alt="Infografia de les fases i temporalització del projecte" width="50%" height="50%">
+<img src="../Professorat/Planificacio_temporal/infografia.png" alt="Infografia de les fases i temporalització del projecte" width="50%" height="50%">
 
 ### Com funciona cada sprint?
 
@@ -109,10 +111,10 @@ En cada sprint, els membres de l'equip assumeixen rols diferents que van canvian
 ## Estructura del repositori
 
 En la carpeta **`Eines_treball/`** teniu disponible el següent:
-- `comercos.json` — Dades de comerços de prova per utilitzar durant el desenvolupament.
+- `comerçLocal.json` — Dades de comerços de prova per utilitzar durant el desenvolupament.
 - `Indicacions_tauler.md` — Guia per configurar i usar correctament el tauler Kanban de Trello.
 
-En la carpeta **`Material/`** teniu disponible el següent:
+En la carpeta **`Materials/`** teniu disponible el següent:
 - `Presentacion git.pdf` — Presentació introductòria de Git.
 - `Presentacion eduscrum.pdf` — Presentació introductòria d'EduScrum.
 - La resta de material de teoria i els enunciats de les activitats s'aniran pujant a mesura que s'avance en el projecte.

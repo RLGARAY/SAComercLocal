@@ -87,7 +87,7 @@ En acabar cada Sprint, els equips faran una breu demostració funcional del que 
 
 ### **Eines de gestió del projecte** 
 
-Per a fer efectiva la metodologia Scrum, cada equip gestionarà el seu treball mitjançant un tauler un Scrum board (per exemple amb Trello o GitHub Projects) amb les columnes: Per fer, En progrés, Revisat i Fet. El professor tindrà accés als taulers per a fer el seguiment i detectar quins equips necessiten suport. 
+Per a fer efectiva la metodologia Scrum, cada equip gestionarà el seu treball mitjançant un tauler un Scrum board (per exemple amb Trello o GitHub Projects) amb les columnes: Backlog / Pendents, Especificar, Programar, Testing i Terminada. El professor tindrà accés als taulers per a fer el seguiment i detectar quins equips necessiten suport. 
 
 ## **Rol del docent** 
 

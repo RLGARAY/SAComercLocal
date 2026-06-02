@@ -35,47 +35,31 @@ El projecte es desenvolupa en **5 sprints** amb durada total de **22 setmanes**:
 
 - **Scrum:** cada sprint té un producte concret lliurable.
 - **Tauler Kanban (Trello):** cada equip gestiona les seues tasques amb les columnes: Backlog, Especificar, Programar, Testing i Terminada.
-- **Git i GitHub:** treball amb branques per sprint (`sprint1`, `sprint2`, `sprint3`...) i commits regulars.
+- **Git i GitHub:** treball amb branques per sprint (`sprint1` a `sprint5`) i commits regulars.
 - **Treball en equip:** rols rotatius, revisió entre company i treball autònom.
 
 ---
 
-## On trobar cada cosa
+## Contingut del projecte
 
 ### 📁 SAComercLocal/Alumnat/
 
-Contingut destinat a l'alumnat:
-
 | Ruta | Contingut |
 |------|-----------|
-| `Guia.md` | Guia general del projecte per a l'alumnat |
-| `Eines_treball/` | Presentacions d'EduScrum i Git, i readme d'eines de treball |
-| `Materials/Guies/Indicacions_tauler.md` | Guia completa per a configurar i usar el tauler Kanban de Trello |
-| `Materials/Guies/Presentacion git.pdf` | Presentació sobre Git per a l'alumnat |
+| `README.md` | Guia general del projecte per a l'alumnat |
+| `Eines_treball/` | Dades dels comerços (JSON) i guia del tauler Kanban |
+| `Materials/` | Presentacions sobre Git i EduScrum i on anirà la teoria |
 
 ### 📁 SAComercLocal/Professorat/
 
-Contingut destinat al professorat:
-
 | Ruta | Contingut |
 |------|-----------|
-| `Guia.md` | Guia general del projecte per al professorat |
-| `Avaluacio/` | Materials d'avaluació |
-| `Estratègies_Metodològiques/` | Estratègies metodològiques del projecte |
-| `Guia didàctica/` | Contextualització del projecte |
-| `Planificacio_temporal/` | Diagrama de Gantt i organització temporal del projecte |
-| `materials_recursos/` | Materials i recursos del projecte (Materials.md, PDFs, guies) |
-| `materials_recursos/Teoria/` | Material teòric organitzat per sprint (DOM, JavaScript, esdeveniments...) |
-
-### 📁 Altres fitxers
-
-| Fitxer | Contingut |
-|--------|-----------|
-| `GuiaEduscrumEspanol.pdf` | Guia de la metodologia EduScrum |
-| `Presentacion eduscrum.pdf` | Presentació d'EduScrum |
-| `Presentacion git.pdf` | Presentació sobre Git |
-| `contextualització.odt` | Contextualització del projecte |
-| `Projecte_Estratègies_Metodològiques_modificat.odt` | Estratègies metodològiques |
+| `Readme.md` | Guia general del projecte per al professorat |
+| `Avaluacio/` | Rúbriques i materials d'avaluació |
+| `estrategies_metodologiques.md` | Estratègies metodològiques |
+| `Guia didàctica/` | Contextualització i planificació didàctica |
+| `Planificacio_temporal/` | Diagrama de Gantt i organització del projecte |
+| `materials_recursos/` | Materials teòrics i pràctics (Materials.md, teoria per sprint) |
 
 ---
 

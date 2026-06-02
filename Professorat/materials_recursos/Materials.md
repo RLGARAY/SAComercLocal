@@ -19,7 +19,7 @@
 
 - Documentació oficial de MDN Web Docs: [developer.mozilla.org](https://developer.mozilla.org)
 - Documentació oficial de React.js: [es.react.dev](https://es.react.dev/)
-- Fitxer `comerços.json` proporcionat pel docent com a conjunt de dades inicial, amb la següent estructura per comerç: nom, descripció, horari, telèfon de contacte, categoria i ruta a imatge
+- Fitxer `comerçLocal.json` proporcionat pel docent com a conjunt de dades inicial, amb la següent estructura per comerç: nom, descripció, horari, telèfon de contacte, categoria i ruta a imatge
 - Carpeta `/assets/img/` dins del repositori amb les imatges de cada comerç en format `.jpg` o `.webp`, evitant així dependències externes i garantint el funcionament offline
 
 > Les dades dels comerços es gestionaran mitjançant un fitxer JSON estàtic servit localment. Aquesta decisió és coherent amb l'àmbit del mòdul 0612 (entorn client) i permet treballar la comunicació asíncrona amb Fetch API sense dependre d'un backend extern, que correspon al mòdul 0613. Les imatges s'allotgen en el propi repositori per a mantindre tota l'aplicació autocontinguda.
@@ -41,6 +41,6 @@
 ## Repositoris
 
 - Es crearà un **repositori principal** del projecte.
-- Cada grup treballarà en un **fork** del repositori principal, realitzant commits regulars que evidencien el progrés al llarg dels tres sprints.
-- S'establirà una convenció de nomenat de branques per sprint: `sprint1`, `sprint2`, `sprint3`.
-- El repositori inclourà des de l'inici una estructura base amb les carpetes `/assets/img/` i el fitxer `comerços.json` d'exemple, perquè l'alumnat puga centrar-se en el desenvolupament sense perdre temps en la configuració inicial.
+- Cada grup treballarà en un **fork** del repositori principal, realitzant commits regulars que evidencien el progrés al llarg dels cinc sprints.
+- S'establirà una convenció de nomenat de branques per sprint: `sprint1`, `sprint2`, `sprint3`, `sprint4`, `sprint5`.
+- El repositori inclourà des de l'inici una estructura base amb les carpetes `/assets/img/` i el fitxer `comerçLocal.json` d'exemple, perquè l'alumnat puga centrar-se en el desenvolupament sense perdre temps en la configuració inicial.
