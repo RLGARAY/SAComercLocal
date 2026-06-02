@@ -2,7 +2,7 @@
 
 Per organitzar el nostre projecte utilitzarem la metodologia **Scrum**, i el tauler **Kanban** serà la nostra eina principal per visualitzar el treball de l'equip en tot moment. L'objectiu és que qualsevol membre de l'equip puga saber, d'un cop d'ull, en quin punt es troba cada tasca.
 
-L'eina que utilitzarem serà **[Trello](https://trello.com)**, que és gratuïta, visual i molt adequada per al treball en equip.
+L'eina que utilitzarem serà **[Trello](https://trello.com/es/guide)**, que és gratuïta, visual i molt adequada per al treball en equip.
 
 ---
 
