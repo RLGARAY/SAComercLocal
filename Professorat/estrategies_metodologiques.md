@@ -211,7 +211,7 @@ Un cop finalitzat el projecte i superades totes les fases de desenvolupament, es
 
 Aquesta col·laboració interdepartamental permetrà:
 
-- ➢ Triar una plataforma de desplegament (per exemple, Vercel, Netlify, GitHub Pages, o un servidor propi) que estiga alineada amb els coneixements de l'alumnat en l'entorn servidor i que facilite un procés de publicació didàctic i proper a la realitat professional.
+- ➢ Triar una plataforma de desplegament (per exemple GitHub Pages, o un servidor propi) que estiga alineada amb els coneixements de l'alumnat en l'entorn servidor i que facilite un procés de publicació didàctic i proper a la realitat professional.
 
 - ➢ Aprofitar el desplegament com a oportunitat d'aprenentatge addicional, introduint l'alumnat als conceptes bàsics de hosting, dominis, certificats SSL i configuració d'entorns, sempre en la mesura que siga compatible amb els objectius d'ambdós mòduls.
 
