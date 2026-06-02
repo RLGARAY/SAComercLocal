@@ -59,7 +59,7 @@ El projecte es desenvolupa en **5 sprints** amb durada total de **22 setmanes**:
 | `estrategies_metodologiques.md` | Estratègies metodològiques |
 | `Guia didàctica/` | Contextualització i planificació didàctica |
 | `Planificacio_temporal/` | Diagrama de Gantt i organització del projecte |
-| `materials_recursos/` | Materials teòrics i pràctics (Materials.md, teoria per sprint) |
+| `materials_recursos/` | Materials teòrics i pràctics i guies d'us |
 
 ---
 
