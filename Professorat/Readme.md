@@ -12,7 +12,7 @@ Documentació relativa a l'avaluació de l'alumnat. Inclou:
 
 - [Rubricas.md](./Avaluacio/Rubricas.md) - Rúbriques d'avaluació per a les diferents tasques i projectes.
 - [README.md](./Avaluacio/README.md) - Explicació detallada del sistema d'avaluació, criteris i ponderació.
-- [Plantilla de qualificació.xlsx](./Avaluacio/Plantilla%20de%20qualificaci%C3%B3.xlsx) - Document Excel per a registrar i calcular les puntuacions finals.
+- [Plantilla de qualificació.xlsx](./Avaluacio/Plantilla_qualificació.xlsx) - Document Excel per a registrar i calcular les puntuacions finals.
 
 ### [Planificació temporal](./Planificacio_temporal/)
 
