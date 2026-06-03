@@ -104,4 +104,4 @@ El projecte es desenvolupa en **5 sprints** amb durada total de **22 setmanes**:
 
 ## Llicència
 
-Este projecte és un recurs educatiu per al mòdul **0612 — Desenvolupament Web en Entorn Client** del cicle formatiu de grau superior en **Desenvolupament d'Aplicacions Web (DAW)**.
+Aquest projecte és un recurs educatiu per al mòdul **0612 — Desenvolupament Web en Entorn Client** del cicle formatiu de grau superior en **Desenvolupament d'Aplicacions Web (DAW)** i ha sigut desenvolupat per **Rubén Linuesa Garay, Jose Luis Palmero Simón i Anna Benedito Fuster**.
